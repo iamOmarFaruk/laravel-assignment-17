@@ -55,4 +55,6 @@ Key routes defined in `routes/web.php`:
 - This project is for learning/demo purposes.
 - Feel free to replace the sample project data with real content.
 
+### Database
+See `DATABASE.md` for the database schema, relations, and examples in Bangla.
 
