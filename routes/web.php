@@ -7,3 +7,5 @@ Route::get('/', [PageController::class, 'home'])->name('home');
 Route::get('/resume', [PageController::class, 'resume'])->name('resume');
 Route::get('/projects', [PageController::class, 'projects'])->name('projects');
 Route::get('/contact', [PageController::class, 'contact'])->name('contact');
+Route::get('/privacy', [PageController::class, 'privacy'])->name('privacy');
+Route::get('/terms', [PageController::class, 'terms'])->name('terms');
